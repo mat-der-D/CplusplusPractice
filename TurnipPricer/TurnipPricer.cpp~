@@ -1,0 +1,33 @@
+#include <iostream>
+#include <random>
+
+
+
+class TurnipPrices {
+
+  int basePrice;
+  int sellPrices[12];
+  int whatPattern;
+  
+public:
+
+  TurnipPrices();
+  calculate();
+
+};
+
+TurnipPrices::TurnipPrices()
+{
+
+}
+
+
+
+
+int main(){
+
+
+
+
+  return 0;
+}
